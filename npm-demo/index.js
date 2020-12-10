@@ -6,4 +6,5 @@ var _ = require('underscore');
 //file or folder
 //node_modules
 var result =  _.contains([1,2,3],2);
+console.log(result); 
 console.log(result);
